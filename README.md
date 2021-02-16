@@ -15,6 +15,8 @@ Allí encontrarás toda la información para la instalación. Para comprobar si 
 El módulo que utilicé para este BOT se llama "Telegraf", aquí tienes la web oficial: https://github.com/telegraf/telegraf
 Para instalar Telegraf es tan sencillo como ejecutar este comando en tu consola: npm install telegraf
 
+Para el TOKEN de Bot Father, debes ir a Telegram y buscar "Bot Father" y ahí en ese chat darle a "Start" y luego el comando /newbot.
+
 Y listo, ya instalado NodeJS y Telegraf en tu proyecto, podrás editarlo como tú quieras y agregar lo que tú quieras, el BOT se mantendrá actualizado.
 
 - English: 
@@ -25,6 +27,8 @@ There you will find all the information for the installation. To check if you ha
 
 The module that I used for this BOT is called "Telegraf", here is the official website: https://github.com/telegraf/telegraf
 To install Telegraf it is as simple as running this command on your console: npm install telegraf
+
+For the Bot Father TOKEN, you must go to Telegram and search for "Bot Father" and there in that chat hit "Start" and then the command / newbot.
 
 And voila, already installed NodeJS and Telegraf in your project, you can edit it as you want and add whatever you want, the BOT will stay updated.
 
