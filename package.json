@@ -1,0 +1,12 @@
+{
+    "name": "telegram-bot-by-fran",
+    "version": "0.0.1",
+    "description": "Bot for Telegram",
+    "main": "bot.js",
+    "license": "ISC",
+    "author": "Francisco Freire",
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "telegraf": "^4.0.3"
+    }
+}
